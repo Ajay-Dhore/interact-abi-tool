@@ -49,10 +49,10 @@ Open your browser at `http://localhost:5173`.
 
 ---
 
-## 🧪 Sample ABI (for testing)
+## 🧪 Sample ERC20 ABI (for testing)
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Sample ERC20 ABI</summary>
 
 ```json
 [
