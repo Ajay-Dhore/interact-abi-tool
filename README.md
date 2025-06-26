@@ -29,7 +29,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:Ajay-Dhore/interact-abi-tool.git
+git clone git@github.com:ajaydhore388/interact-abi-tool.git
 cd interact-abi-tool
 ```
 
@@ -202,14 +202,9 @@ Open your browser at `http://localhost:5173`.
 ## 🧑‍💻 Author
 
 **Ajay Dhore**  
-Head of Integration | Blockchain & Full-Stack Developer  
-[GitHub](https://github.com/Ajay-Dhore) • [LinkedIn](https://www.linkedin.com/in/ajay-dhore-09aa7518b)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+Team Lead 
+React & Node.js | DeFi & Smart Contract  Developer
+[GitHub](https://github.com/ajaydhore388) • [LinkedIn](https://www.linkedin.com/in/ajay-dhore-09aa7518b)
 
 ---
 
