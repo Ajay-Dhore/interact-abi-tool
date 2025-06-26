@@ -202,8 +202,7 @@ Open your browser at `http://localhost:5173`.
 ## 🧑‍💻 Author
 
 **Ajay Dhore**  
-Team Lead 
-React & Node.js | DeFi & Smart Contract  Developer
+ReactJS | NodeJs | DeFi & Smart Contract  Developer 
 [GitHub](https://github.com/ajaydhore388) • [LinkedIn](https://www.linkedin.com/in/ajay-dhore-09aa7518b)
 
 ---
